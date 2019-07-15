@@ -1,0 +1,1 @@
+projekt testowy z hibernate jpa h2 
